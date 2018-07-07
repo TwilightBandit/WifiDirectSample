@@ -1,5 +1,5 @@
 ﻿//
-// Created by bandit on 2018/05/15.
+// Created by twilight_bandit on 2018/05/15.
 //
 #include "json/rapidjson.h"
 #include "json/document.h"

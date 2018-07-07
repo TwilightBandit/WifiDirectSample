@@ -1,5 +1,5 @@
 ﻿//
-// Created by bandit on 2018/05/15.
+// Created by twilight_bandit on 2018/05/15.
 //
 
 #ifndef PROJ_ANDROID_STUDIO_SELECTDEVICESCENE_H

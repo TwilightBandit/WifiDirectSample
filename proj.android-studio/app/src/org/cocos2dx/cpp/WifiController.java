@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import static com.loopj.android.http.AsyncHttpClient.log;
 
 /**
- * Created by bandit on 2018/05/24.
+ * Created by twilight_bandit on 2018/05/24.
  */
 
 public class WifiController implements WifiP2pManager.PeerListListener, WifiP2pManager.ConnectionInfoListener  {

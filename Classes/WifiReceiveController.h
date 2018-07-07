@@ -1,5 +1,5 @@
 //
-// Created by bandit on 2018/05/24.
+// Created by twilight_bandit on 2018/05/24.
 //
 
 #ifndef PROJ_ANDROID_STUDIO_WIFIRECEIVECONTROLLER_H

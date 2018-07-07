@@ -1,5 +1,5 @@
 //
-// Created by bandit on 2018/05/26.
+// Created by twilight_bandit on 2018/05/26.
 //
 //#include <jni.h>
 #include "jni/JniHelper.h"

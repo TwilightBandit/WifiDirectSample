@@ -1,5 +1,5 @@
 //
-// Created by bandit on 2018/05/29.
+// Created by twilight_bandit on 2018/05/29.
 //
 
 #ifndef PROJ_ANDROID_STUDIO_IWIFIRECEIVER_H

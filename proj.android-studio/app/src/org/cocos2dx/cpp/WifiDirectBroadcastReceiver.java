@@ -11,7 +11,7 @@ import android.os.Message;
 import android.util.Log;
 
 /**
- * Created by bandit on 2018/05/22.
+ * Created by twilight_bandit on 2018/05/22.
  */
 
 public class WifiDirectBroadcastReceiver extends BroadcastReceiver {

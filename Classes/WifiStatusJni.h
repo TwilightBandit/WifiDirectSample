@@ -1,5 +1,5 @@
 //
-// Created by bandit on 2018/05/26.
+// Created by twilight_bandit on 2018/05/26.
 //
 
 #ifndef PROJ_ANDROID_STUDIO_WIFISTATUSJNI_H

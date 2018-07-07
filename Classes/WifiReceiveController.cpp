@@ -1,5 +1,5 @@
 //
-// Created by bandit on 2018/05/24.
+// Created by twilight_bandit on 2018/05/24.
 //
 
 #include "cocos2d.h"
